@@ -86,3 +86,8 @@ Here’s a breakdown of the main queries and analyses performed:
            visualizing insights through interactive dashboards and reports.
 
 
+
+
+  here is the how dashboards looks  : https://github.com/Imhritik000/Ola-Sales-Data-Analysis/blob/main/All%20in%20one%20Dashboard.png
+
+
